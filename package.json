@@ -1,0 +1,12 @@
+{
+  "name": "contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/The-Witch-Trials/contracts.git",
+  "author": "lawlesx <welcometohellv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0",
+    "hardhat": "^2.9.2"
+  }
+}
